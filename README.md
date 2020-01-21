@@ -1,2 +1,6 @@
 # TodoApp
-A ToDo app built using Flask-restPlus
+The app uses mysql database and Flask-restPlus.
+To execute the app :
+  1. Run the sql commands
+  2. Run the python file
+  3. Open the app in your browser
