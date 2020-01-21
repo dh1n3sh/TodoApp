@@ -4,3 +4,4 @@ To execute the app :
   1. Run the sql commands
   2. Run the python file
   3. Open the app in your browser
+Link to Video : https://drive.google.com/drive/folders/1tmkXqVtw9lLZ8mPoVqb7oUolqZ2WoSzD?usp=sharing
