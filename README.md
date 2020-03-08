@@ -7,4 +7,4 @@ To execute the app :
 
 Link to Video : https://drive.google.com/drive/folders/1tmkXqVtw9lLZ8mPoVqb7oUolqZ2WoSzD?usp=sharing
 
-![Preview of the App] (https://github.com/dh1n3sh/TodoApp/blob/master/Todo.gif)
+![Preview of the App](https://github.com/dh1n3sh/TodoApp/blob/master/Todo.gif)
